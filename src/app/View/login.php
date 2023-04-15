@@ -1,5 +1,5 @@
 <?php
-
+// error message
 if(isset($_GET['msg'])){?>
     <h2 style="color:red; font-family:Arial; " id="msg"><?php echo $_GET['msg']; ?></h2>
     <?php

@@ -1,6 +1,5 @@
 <?php
-
-echo "public folder me index.php pe hAI THEEK";
+// redirect to signup
 header('location:../app/View/signup.php'); 
 
 ?>
